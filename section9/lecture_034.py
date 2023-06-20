@@ -1,4 +1,4 @@
-# The code below should be run in IDLE or directly in the Python command line.
+# The code below should be run in IDLE or directly in the Python command  line.
 
 password = 'tony'
 
